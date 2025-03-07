@@ -13,8 +13,11 @@
 
 ###
 
-<div align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,ts,node,bun,next,react,java,spring,docker,nginx&perline=3)](https://skillicons.dev)
-</div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,next,react,tailwind,java,spring,postgres,mongo,docker,nginx,grafana,prometheus" />
+  </a>
+</p>
 
 ###
