@@ -1,21 +1,28 @@
-<h2 align="left">Hi 👋! My name is Marcos and I'm a Web FullStack, from Brazil</h2>
+<h1 align="left">Olá 👋! Eu sou o Marcos Lima</h1>
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<h2 align="left">My Skills:</h2>
-
-###
-
+<h3 align="left">Desenvolvedor Web FullStack do Brasil 🇧🇷</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,next,react,tailwind,java,spring,postgres,mongo,docker,nginx,grafana,prometheus" />
-  </a>
+  Sou um desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis, desde o front-end elegante até o back-end performático. Atualmente focado em tecnologias modernas e em constante aprendizado para transformar ideias em realidade.
 </p>
 
 ###
+
+<h2 align="left">Portfólio & Contato</h2>
+
+<p align="left">
+  Confira meus projetos mais recentes e saiba mais sobre minha experiência:
+  <br>
+  👉 <strong>Portfólio:</strong> <a href="https://markinlima.com">markinlima.com</a>
+  <br>
+  </p>
+
+###
+
+<h2 align="left">Minhas Skills e Stack Principal:</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,bun,postgres,redis,docker,kubernetes,nginx,jenkins,githubactions,grafana,prometheus,loki,tailwind,elysia,vitest"/>
+</p>
