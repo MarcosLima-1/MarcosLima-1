@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor Web FullStack do Brasil 🇧🇷</h3>
+<h3 align="left">Software Engineer</h3>
 
 <p align="left">
   Sou um desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis, desde o front-end elegante até o back-end performático. Atualmente focado em tecnologias modernas e em constante aprendizado para transformar ideias em realidade.
